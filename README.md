@@ -1,12 +1,12 @@
-#Title: The 4rd SKU IME AI,Data_Analysis Contest<br/>
-##Topic: Classification Prediction of Heat Treatment Data Using Data Analysis<br/>
-##Period: 2023.10 - 2023.11 <br/>
-##Prize: 1st<br/>
+# Title: The 4rd SKU IME AI,Data_Analysis Contest<br/>
+## Topic: Classification Prediction of Heat Treatment Data Using Data Analysis<br/>
+## Period: 2023.10 - 2023.11 <br/>
+## Prize: 1st<br/>
 
-###Announcement Document:<br/>
+### Announcement Document:<br/>
 x
 
-###Submission example:<br/>
+### Submission example:<br/>
 5 Pages / 9 Pages<br/>
 <br/>
 ![표지](https://github.com/user-attachments/assets/d2839082-7f78-4d68-9baa-ea3eb85e52c4)
