@@ -6,7 +6,7 @@
 ### Announcement Document:<br/>
 x
 
-### Submission example:<br/>
+### Summary Preview:<br/>
 5 Pages / 9 Pages<br/>
 <br/>
 ![표지](https://github.com/user-attachments/assets/d2839082-7f78-4d68-9baa-ea3eb85e52c4)
