@@ -1,4 +1,4 @@
-# Title: The 4rd SKU IME AI,Data_Analysis Contest<br/>
+# Title: The 4th SKU IME AI,Data_Analysis Contest<br/>
 ## Topic: Classification Prediction of Heat Treatment Data<br/>
 ## Period: 2023.10 - 2023.11 <br/>
 ## Prize: 1st<br/>
